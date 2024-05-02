@@ -9,7 +9,10 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ![](./assets/images/screenshot.PNG)
 
-You can check it out live [here](https://xstephx.github.io/order-summary-component-challenge/).
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-order-summary-component-CjW5Yruo0V)
+- Live Site URL: [here](https://xstephx.github.io/order-summary-component-challenge/)
 
 ## My process
 
